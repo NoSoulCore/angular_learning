@@ -1,0 +1,12 @@
+for HR`s and TechLead`s
+
+//all RED errors or Strange behaviours of App which was solved
+
+connecting new component to root component file (manual)
+importing CommonModules to use 'ngIf'
+adding new interface into component file
+...adding CommonModules to root app.component so i can use ngSwitch here
+running server with "Live Server" but not a "ng serve -o" command... and its result
+removing Optional sign ? from property of interface so there is no Alert(Yellow) in component file ("propery may be undefined")
+"literówka" 06.02.2024
+tbody...thead... in table
